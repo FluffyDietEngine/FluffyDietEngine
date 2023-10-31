@@ -1,23 +1,23 @@
-# Hello there, I'm Santhosh! 👋
+# Hello there, I'm Santhosh aka Fluffy! 👋
 
 ## 🐍 Python Enthusiast | 🌐 Web Scraping Ninja | 🛠 API Artisan
 
-With **8 years** of blending data potions and engineering magical scripts, I've now decided to spread my wizardry in the open-source realm. Why did it take me so long? Well, good things come to those who wait! 😜
+With **8 years** of brewing data potions and engineering spellbinding scripts, I've recently caught the open-source bug. What's the catalyst, you ask? A little event known as PyCon India 2023. 🎉
 
-### 🤓 What I'm currently diving into:
-* 🌱 Exploring the vast ocean of open-source standards & practices. Better late than never, right?
-* 🤖 Automating the web, one scrape at a time.
-* 🚀 Building APIs that are so good, they're almost like spells.
+### 🤓 What I'm up to:
+* 🌱 Surfing the vast ocean of open-source standards & practices. Some say I'm fashionably late to the party.
+* 🤖 Automating the web, one document at a time.
+* 🚀 Conjuring APIs that feel like magic.
+* 🦀 Diving deep into the realms of Rust. It's...rustic.
 
-### 💼 Industrial Experience:
-* **8 years** of turning tea (ofcourse) ☕️ into code and bytes into business value.
+### 💼 Past Life Chronicles:
+* **8 years** of turning tea (of course!) ☕ into code and bytes into insights.
 
-### 🤔 Why Open Source now?
-Curiosity didn't just kill the cat, it also led the developer to open-source. I've been told it's a rite of passage, so here I am, learning, contributing, and occasionally breaking things. 🙈
 
-### 📫 How to reach me:
+### 📫 How to summon me:
 - LinkedIn: [https://www.linkedin.com/in/santhosh-solomon]
 - Twitter: [@SolomonSanthosh]
+
 ---
 
-*Remember, if life gives you data, make sure to scrape it responsibly!* 😇
+*Remember, if life throws data your way, always scrape responsibly!* 😇
